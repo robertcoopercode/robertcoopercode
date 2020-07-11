@@ -1,5 +1,7 @@
 ### Hello, welcome to my GitHub profile
 
+[![Twitter Badge](https://img.shields.io/badge/-@RobertCooper_RC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RobertCooper_RC)](https://twitter.com/RobertCooper_RC) [![LinkedIn Badge](https://img.shields.io/badge/-robertcooper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertcooper/)](https://www.linkedin.com/in/robert-cooper/) [![Website Badge](https://img.shields.io/badge/-robertcooper.me-0d3b73?style=flat-square&logo=website&logoColor=white&link=https://www.robertcooper.me/)](https://www.robertcooper.me/)
+
 Here are a few things that describe me:
 
 - 💼&nbsp;&nbsp; I'm currently working full-time at [Element AI](https://www.elementai.com) as a full-stack developer
